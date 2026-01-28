@@ -1,20 +1,5 @@
 # PyTorch
-## Notebook 1: Tensor Basics
-
-This notebook covers the foundational concepts of PyTorch tensors, including:
-
-- Creating a tensor
-- Tensor shapes
-- Tensor data types
-- Mathematical operations
-  - Scalar operations
-  - Element-wise operations
-  - Reduction operations
-  - Matrix operations
-- Comparison operations
-- Special tensor functions
-- In-place operations
-- Copying tensors
-- Tensor operations on GPU
-- Reshaping tensors
-- NumPy and PyTorch interoperability
+This repository contains Jupyter notebooks created for learning PyTorch.
+1. Tensor Basics – Core tensor creation and operations
+2. Autograd – Automatic differentiation and gradient computation
+3. Manual Neural Network – End-to-end neural network training implemented from scratch using PyTorch tensors and autograd NumPy and PyTorch interoperability
